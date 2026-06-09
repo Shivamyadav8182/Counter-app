@@ -2,7 +2,7 @@
 
 A simple and interactive Counter Application built using HTML, CSS, and JavaScript. The app allows users to increase, decrease, and reset the counter value with a clean and responsive user interface.
 
-
+![Counter App](./)
 ### ✨ Features
 - Increment Counter
 - Decrement Counter
