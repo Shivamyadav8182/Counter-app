@@ -3,6 +3,7 @@
 A simple and interactive Counter Application built using HTML, CSS, and JavaScript. The app allows users to increase, decrease, and reset the counter value with a clean and responsive user interface.
 
 ![Counter-app](./Screenshot 2026-06-09 212910.png)
+
 ### ✨ Features
 - Increment Counter
 - Decrement Counter
